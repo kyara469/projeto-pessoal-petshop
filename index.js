@@ -60,19 +60,6 @@ console.log("\nAÇÕES:")
 console.log(`${pet1.nome} está ${acao1}`)
 console.log(`${pet2.nome} está ${acao2}`)
 
-/*
-console.log("\nGETTER:")
-
-console.log(`Idade do ${pet1.nome}: ${pet1.idade} anos`)
-
-console.log("\nSETTER:")
-
-pet1.idade = 4
-
-console.log(`Nova idade do ${pet1.nome}: ${pet1.idade} anos`)
-
-*/
-
 console.log("\nQUANTIDADE:")
 
 Pet.mostrarQuantidade()
