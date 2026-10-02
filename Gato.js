@@ -7,11 +7,11 @@ class Gato extends Pet {
     }
 
     emitirSom() {
-        console.log(`${this.nome} faz: Miaus miaus!`)
+        console.log(`${this.nome}`)
     }
 
     brincar() {
-        console.log(`${this.nome} está comendo um passarinho!`)
+        console.log(`${this.nome}`)
     }
 }
 
