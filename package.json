@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/kyara469/projeto-pessoal-pet-shop/issues"
   },
-  "homepage": "https://github.com/kyara469/projeto-pessoal-pet-shop#readme"
+  "homepage": "https://github.com/kyara469/projeto-pessoal-pet-shop#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
